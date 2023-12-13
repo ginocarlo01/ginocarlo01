@@ -11,7 +11,7 @@ I am a passionate 🎮 Game Developer and designer currently working with Unity 
 
 ## 🧠 Currentinly studying 
 ### Backend
-![Game Design](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unreal](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
@@ -20,6 +20,9 @@ I am a passionate 🎮 Game Developer and designer currently working with Unity 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+## 📖 Hobbies
+During my free time, I study and develop games. You can check out my series of video analyses on YouTube where I not only share my opinions but also demonstrate how I would implement features in a different and improved way for the player. Additionally, I actively participate in game jams to enhance my game development skills, and you can view my projects [here](https://ginocarlo01.itch.io/).
 
 ### 🌎 Contacts
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gino.carlo02@gmail.com)
