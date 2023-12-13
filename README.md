@@ -10,20 +10,19 @@ I am a passionate 🎮 Game Developer and designer currently working with Unity 
 ![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)
 
 ## 🧠 Currentinly studying 
-### Backend
 ![Unreal](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 
-## 📖 Experience with
+## 🚀 Experience with
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-## 📖 Hobbies
-During my free time, I study and develop games. You can check out my series of video analyses on YouTube where I not only share my opinions but also demonstrate how I would implement features in a different and improved way for the player. Additionally, I actively participate in game jams to enhance my game development skills, and you can view my projects [here](https://ginocarlo01.itch.io/).
+## 💭 Hobbies
+During my free time, I study and develop games. You can check out my series of video analyses and gameplays on [YouTube](https://www.youtube.com/watch?v=9xCxcNPoTy4&list=PLT_ZYR2XRy9y_qtUqy2hRLOOrA2_2oHA-&index=17) where I not only share my opinions but also demonstrate how I would implement features in a different and improved way for the player. Additionally, I actively participate in game jams to enhance my game development skills, and you can view my projects [here](https://ginocarlo01.itch.io/).
 
-### 🌎 Contacts
+### 🕵🏼‍♂️ Contacts
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gino.carlo02@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gino-grippo/?locale=en_US)
