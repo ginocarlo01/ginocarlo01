@@ -29,7 +29,7 @@ I am a passionate 🎮 Game Developer and designer currently working with Unity 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### Stats
-[![My github stats](https://github-readme-stats.vercel.app/api?username=arthurgconti&show_icons=true&theme=dracula&count_private=true)](https://github.com/arthurgconti) <br/>
+[![My github stats](https://github-readme-stats.vercel.app/api?username=ginocarlo01&show_icons=true&theme=dracula&count_private=true)](https://github.com/arthurgconti) <br/>
 
 ### Contacts
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gino.carlo02@gmail.com)
