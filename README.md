@@ -28,9 +28,6 @@ I am a passionate 🎮 Game Developer and designer currently working with Unity 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-### Stats
-[![My github stats](https://github-readme-stats.vercel.app/api?username=ginocarlo01&show_icons=true&theme=dracula&count_private=true)](https://github.com/arthurgconti) <br/>
-
 ### Contacts
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gino.carlo02@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gino-grippo/?locale=en_US)
